@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "some comment"
+    }
+  ],
+  "employees": [
+    {
+      "id": "8487",
+      "firstName": "Mohd",
+      "lastName": "Zamin",
+      "email": "mohammadzamin786@gmail.com",
+      "dob": "2024-04-10T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "TATA",
+      "experience": "2",
+      "package": "12"
+    },
+    {
+      "firstName": "Shabeeb",
+      "lastName": "MOhd",
+      "email": "shab@gmail.com",
+      "dob": "2024-04-06T18:30:00.000Z",
+      "gender": "",
+      "education": "Graduate",
+      "company": "Wipro",
+      "experience": "2",
+      "package": "20",
+      "id": "fd95"
+    },
+    {
+      "id": "2ad7",
+      "firstName": "dsfg",
+      "lastName": "dsf",
+      "email": "safd",
+      "dob": "2024-04-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "adefsrdf",
+      "experience": "234",
+      "package": "34"
+    },
+    {
+      "id": "4815",
+      "firstName": "yfhdg",
+      "lastName": "gsdf",
+      "email": "dgsfa@efr.rd",
+      "dob": "2024-04-08T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "drtf",
+      "experience": "34",
+      "package": "44"
+    }
+  ]
+}
